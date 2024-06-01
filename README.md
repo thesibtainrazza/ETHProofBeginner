@@ -1,4 +1,4 @@
-# StoicMushashiToken Solidity Contract
+# Stoic Musashi Token Solidity Contract
 
 [Watch the Video Tutorial](https://www.loom.com/share/7911772a5ca14c41bb28f8e3713e83db?sid=e957f7c2-627a-4a3f-97f1-55fa8b04eb2b)
 
