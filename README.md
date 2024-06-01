@@ -72,7 +72,7 @@ For additional help, use the Remix documentation or community forums.
 ## Authors
 
 MetaCrafter Om Satapathy  
-[@OmSatapathy04](https://twitter.com/OmSatapathy04)
+[@OmSatapathy04](https://twitter.com/OmSatapathy4)
 
 ## License
 
