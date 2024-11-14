@@ -71,8 +71,9 @@ For additional help, use the Remix documentation or community forums.
 
 ## Authors
 
-MetaCrafter Om Satapathy  
-[@OmSatapathy4](https://twitter.com/OmSatapathy4)
+MetaCrafter 
+Mohammad Sibtain Raza
+
 
 ## License
 
